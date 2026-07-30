@@ -1,2 +1,29 @@
-# python-mastery
-My complete Python learning journey from Basic to Advanced with notes, practice, projects, and AI preparation.
+ Python Mastery
+
+Welcome!
+
+This repository contains my complete Python learning journey from Basic to Advanced
+
+##  Goal
+
+Become a Professional Python Developer and AI Engineer.
+
+##  Topics
+
+- Python Basics
+- Variables
+- Input / Output
+- Operators
+- Conditions
+- Loops
+- Functions
+- OOP
+- File Handling
+- Mini Projects
+- Major Projects
+- AI Preparation
+
+
+## 👨‍💻 Author
+
+**Rehan Khan**
