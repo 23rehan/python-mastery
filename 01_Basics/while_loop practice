@@ -1,1 +1,27 @@
+# In this file i pracice the while loop.
 
+#even number program
+count_num = 2
+while count_num <= 20:
+    print(count_num)
+    count_num = count_num+2
+
+
+------
+# now take any value from user and create a loop
+basic_num = 1
+user_num = int(input("Enter the any number"))
+while basic_num<=user_num:
+    print(basic_num)
+    basic_num = basic_num +1
+
+---------
+## Caunt down timer loop
+
+num = 10
+while num>=1:
+    print(num)
+    num = num -1
+print("hey time's up")
+
+-----
