@@ -55,6 +55,17 @@ else:
     print("Wrong password")
 
 -------
+topic:function
+# it's simple function program
+
+user_name = input("Enter your name:")
+user_age = int(input("Enter your age:"))
+def introduction(user_name,user_age):
+    print("your name is:",user_name)
+    print("your age is:",user_age)
+introduction(user_name,user_age)
+
+-------
 
 
 
